@@ -38,6 +38,12 @@ h2 {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
+}
+
+.main-section1-title,
+.main-section2-title,
+.main-section3-title,
+.main-section4-title {
   font-weight: 500;
 }
 
